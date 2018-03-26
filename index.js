@@ -21,4 +21,4 @@ router.get('/api/user', async function(ctx) {
 
 app.use(router.routes());
 
-app.listen(3000);
+app.listen(80);
